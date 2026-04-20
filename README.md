@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> في عيوني شوق بيناديك
+> يا نور حياتي أنا شاريك
+> أنا بحب اللحظة معاك
+> وكل نبضة بتسألني فيك
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
