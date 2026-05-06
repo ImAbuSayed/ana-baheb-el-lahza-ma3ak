@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ana-baheb-el-lahza-ma3ak/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get Permission to Use Ana Baheb El Lahza Ma3ak](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
